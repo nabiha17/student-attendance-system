@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AttendanceSystem
+build_property.ProjectDir = C:\Users\NabihaMustaqeem\Downloads\Kazi-Md-Minhajul-Haider-Csharp-assignment-3\Kazi-Md-Minhajul-Haider-Csharp-assignment-3\AttendanceSystem\
