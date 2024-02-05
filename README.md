@@ -1,6 +1,3 @@
-#### Author name: Kazi-Md-Minhajul-Haider
-#### Project name: Attendance system
-#### Instructor : Jalal Uddin 
 #### Csharp Batch 11 final project using Cshap cosole project
 
 
